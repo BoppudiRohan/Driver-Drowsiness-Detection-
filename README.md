@@ -1,0 +1,5 @@
+### Abstract
+
+This Project proposes the development of a real-time driver drowsiness detection system aimed at enhancing road safety by monitoring a driver's alertness and issuing timely warnings. Utilizing computer vision techniques and machine learning algorithms, the system detects early signs of drowsiness such as prolonged eye closure and frequent yawning. It leverages the Raspberry Pi, a compact and affordable computing platform, ensuring the solution is both effective and accessible. By implementing advanced facial landmark detection, the system calculates key metrics like the Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) to assess the driver’s state of alertness. Real-time visual alerts, integrated with an LED light, are triggered when drowsiness is detected, offering a practical and cost-effective tool for preventing accidents and improving road safety. 
+
+**Keywords:** Driver Drowsiness Detection, Raspberry Pi, Machine Learning, Real-Time Monitoring, Eye Movement Tracking, Facial Expression Analysis, Image Processing, Road Safety, Convolutional Neural Networks (CNNs), OpenCV.
